@@ -9,6 +9,13 @@ body {
   background-image: url('images/background.png');
 }
 
+div.lolboll {
+font-size: 20pt;
+color: #fff;
+margin-left: 5%;
+margin-top: 4%;
+}
+
 h1 {
   font-family: arial, helvetica, sans-serif;
   font-size: 40pt;
