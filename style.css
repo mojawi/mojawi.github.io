@@ -14,8 +14,38 @@ h1 {
   font-size: 40pt;
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 70%;
   margin-left: -100px;
   margin-top: 20px;
   text-shadow: 4px 4px #0ff001;
+}
+
+h2 {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 40pt;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  margin-left: -245px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 20pt;
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  margin-left: -50px;
+  margin-top: 20px;
+}
+
+div.pic {
+  width: 400px;
+  height: 208px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  margin-left: -200px;
+  margin-top: -104px;
 }
