@@ -66,3 +66,13 @@ div.achievement {
   margin-left: -160px;
   margin-top: -45px;
 }
+
+div.n00b {
+  width: 460px;
+  height: 243px;
+  position: absolute;
+  left: 80%;
+  top: 85%;
+  margin-left: -230px;
+  margin-top: -121.5px;
+}
