@@ -1,9 +1,6 @@
 mojawi.github.io
 ================
 
-Mojawi 
-
-
 ÄNDRA PÅ TEXTFÄRGERNA VID INLÄGG
 
 ÄNDRA PÅ POST-REPLY BILDEN
